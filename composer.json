@@ -1,0 +1,12 @@
+{
+    "name": "dukejabed/greekreport",
+    "require": {
+        "bref/bref": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Dukje jabed",
+            "email": "dukejabed@me.com"
+        }
+    ]
+}
