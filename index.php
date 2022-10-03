@@ -17,6 +17,7 @@ header('Access-Control-Allow-Origin: *');
 	$myObj->bounce_rate = $anDataBouncRate;
 	$myObj->page_views = $anDataPageViews;
 	$myObj->tl_visitors = $anDataSession;
+	$myObj->ttext = 'Hello';
 	$myJSON = json_encode($myObj);
 	echo $myJSON;
 
